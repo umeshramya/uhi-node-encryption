@@ -1,0 +1,14 @@
+{
+  "name": "uhi-node-encryption",
+  "version": "1.0.0",
+  "description": "This is for encryption of UHI header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dr Umesh Bilagi",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
